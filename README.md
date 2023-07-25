@@ -6,7 +6,7 @@ This is my course object oriented programming homework 1, trying to use object o
 ```
 python3 filename.py
 ```
-**for Windows (with python 2)**
+**for Windows (only with python 3)**
 ```
 python filename.py
 ```
